@@ -52,28 +52,6 @@ ALL一橋競技ダンス部のHP
     <p>&copy; 2025 一橋大学競技ダンス部</p>
   </footer>
 
-</body>
-</html>
-<!DOCTYPE html>
-<html lang="ja">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>ALL一橋大学競技ダンス部</title>
-  <link rel="stylesheet" href="style.css" />
-</head>
-<body>
 
-  <!-- ナビゲーションバー -->
-  <header>
-    <nav class="navbar">
-      <div class="logo">ALL一橋大学競技ダンス部</div>
-      <ul class="nav-links">
-        <li><a href="#about">活動紹介</a></li>
-        <li><a href="#members">部員紹介</a></li>
-        <li><a href="#contact">お問い合わせ</a></li>
-      </ul>
-    </nav>
-  </header>
 
 
